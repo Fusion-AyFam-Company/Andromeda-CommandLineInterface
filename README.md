@@ -26,7 +26,7 @@ To run the Kangaroo Build at peak efficiency, the following hardware specs are m
 | **Serial Bus** | CH340 / CP2102 | UART / TTL (5V/3.3V Logic) | 🛠️ **DEV-ACTIVE** |
 | **Ethernet** | RTL8211E | 10/100/1000Mbps Base-T | 🌐 **GIGABIT** |
 
-# DEEP-STRIKE INSTALLATION
+# INSTALLATION
 The Andromeda-CLI is distributed as a Debian Binary Archive (.deb). This ensures that all symlinks, permissions, and dependencies are handled by the system's native package manager.
 
 **1. The Standard Deployment**
