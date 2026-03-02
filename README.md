@@ -36,6 +36,6 @@ If you have the .deb file locally on your device:
 
 **2. Remote Deployment (wget)**
 If you are installing on a fresh node:
-`wget https://github.com/Fusion-AyFam-Company/[filenotfound-prerealese]`
+`wget https://github.com/Fusion-AyFam-Company/[filenotfound-prerelease]`
 
 
